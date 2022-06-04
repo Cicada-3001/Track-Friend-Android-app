@@ -1,6 +1,7 @@
 package com.example.jinx;
 
 public class FriendModel {
+    //creating a friend model
     private string firstname;
     private string lastname;
     private string birthday;
